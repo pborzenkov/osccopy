@@ -1,0 +1,12 @@
+[package]
+name = "osccopy"
+version = "0.1.0"
+authors = ["Pavel Borzenkov <pavel@borzenkov.net>"]
+edition = "2018"
+
+[[bin]]
+name = "osccopy"
+path = "src/main.rs"
+
+[dependencies]
+base64 = "0.13.0"
