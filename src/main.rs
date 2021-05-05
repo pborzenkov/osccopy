@@ -1,4 +1,3 @@
-use base64;
 use std::io::{self, Read};
 
 fn main() {
